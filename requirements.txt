@@ -1,0 +1,6 @@
+# https://flask.palletsprojects.com/en/1.1.x/
+Flask==1.1.1
+# https://www.psycopg.org/docs/
+psycopg2==2.8.4
+# https://flask-wtf.readthedocs.io/en/stable/
+flask-wtf==0.14
